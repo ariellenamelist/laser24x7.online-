@@ -98,7 +98,7 @@ export default function Footer() {
                   </div>
                   <div className="copyright">
                     <p>
-                      ©2025 Laser24x7.online – All rights reserved
+                      ©2025 Laser24x7.online – All rights reserved.
                       <br /> Laser247 is a licensed gaming company under the regulations
                       of Curacao and is certified to operate globally.
                     </p>
