@@ -113,7 +113,7 @@ export default function Footer() {
             <Image
                             className="img-fluid"
                             src="/images/wpi.png"
-                            alt="Gold365 Login ID"
+                            alt="Laser247" title="Welcome to Laser247"
                             width={50}
                             height={50}      
                             />
