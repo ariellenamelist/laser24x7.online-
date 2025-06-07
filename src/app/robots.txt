@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /search?q={search_term_string}
 
-SiteMap: https://www.gold365.org.in/sitemap.xml
+SiteMap: https://www.laser24x7.online/sitemap.xml
