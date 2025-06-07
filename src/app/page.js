@@ -36,7 +36,7 @@ export default function Home() {
     
     <meta name="title" content="Welcome to Laser247"/>
     <meta name="description" content="Laser247 is the world's largest gaming website. More than 3500+ sports games available daily on Laser247.online website. Get the best odds, instant deposit and withdrawal. 24/7 customer support and referral bonuses. Get Laser247 Login ID today's."/>
-    <meta name="keywords" content="#"/>
+    <meta name="keywords" content="welcome to laser247, Laser247 Login, laser247.com login ID, laserbook247, www.laser247.com login, laser247 ID, laser 247.online login ID, laserbook247 login, www.laser247.club login ID, www.laser247.vip login ID, www.laser247.win login ID, laser247 apk download"/>
     <meta name="author" content="Laser247"/>
     <meta name="publisher" content="Laser247"/>
     <meta httpEquiv="Content-Language" content="en-IN"/>
