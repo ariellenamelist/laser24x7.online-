@@ -80,7 +80,7 @@ export default function HowtoRegister () {
                 5. Select the "Login" sign. You will be taken to the home page if your information entry is successful.
                 </p>
                 <p>
-                <b>Note:-</b> - To ensure that JavaScript is enabled, please check for any notifications pertaining to "Incorrect/Username and password." If you're still having trouble logging in, use the password reset feature or send us a direct WhatsApp message.
+                <b>Note:-</b> To ensure that JavaScript is enabled, please check for any notifications pertaining to "Incorrect/Username and password." If you're still having trouble logging in, use the password reset feature or send us a direct WhatsApp message.
                 </p>
                 <div className="text-left anc-tab">
                 <a
