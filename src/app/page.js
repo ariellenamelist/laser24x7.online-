@@ -33,7 +33,7 @@ export default function Home() {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
-    
+    <meta name="google-site-verification" content="SAhrZKZHSjHdc2z5N_HPlsQ6620dGvpi2mOAqKJS35c" />
     <meta name="title" content="Welcome to Laser247"/>
     <meta name="description" content="Laser247 is the world's largest gaming website. More than 3500+ sports games available daily on Laser247.online website. Get the best odds, instant deposit and withdrawal. 24/7 customer support and referral bonuses. Get Laser247 Login ID today's."/>
     <meta name="keywords" content="welcome to laser247, Laser247 Login, laser247.com login ID, laserbook247, www.laser247.com login, laser247 ID, laser 247.online login ID, laserbook247 login, www.laser247.club login ID, www.laser247.vip login ID, www.laser247.win login ID, laser247 apk download"/>
