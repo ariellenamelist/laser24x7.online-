@@ -44,7 +44,6 @@ export default function Home() {
     <meta name="copyright" content="https://www.laser24x7.online"/>
     <link rel="canonical" href="https://www.laser24x7.online"/>
     <link rel="alternate" type="application/rss+xml" href="https://www.laser24x7.online/sitemap.xml" />
-    <link rel="alternate" type="application/rss+xml" href="https://www.laser24x7.online/images_sitemap.xml" />
 
     {/*<!-- Open Graph meta tags for Laser247 -->*/}
     <meta property="og:url" content="https://www.laser24x7.online/"/>
