@@ -22,7 +22,7 @@ export default function HowtoResetPassword() {
                     <p>
                       Don't freak out if you can't remember your Laser247 password. It is actually the most prevalent issue. Approximately 50% of our clients contact us to change their account passwords.
                     </p>
-                    <p>If you can't remember yours, do the following:</p>
+                    <p><b>If you can't remember yours, do the following:</b></p>
                     <ol>
                       <li>Start by utilizing our website's live chat feature.</li>
                       <li>
