@@ -34,7 +34,7 @@ export default function Testimonials() {
           <Slider {...settings}>
         <div className="item">
           <p className="testimonial">
-            Absolutely impressed with Gold365! The service is fast, reliable, and
+            Absolutely impressed with Laser247! The service is fast, reliable, and
             perfect for anyone serious about online cricket betting. I’ve tried a few
             platforms, but this one stands out as the #1 cricket betting ID provider
             platform. Their support team is responsive and professional. Highly
@@ -57,7 +57,7 @@ export default function Testimonials() {
 
         <div className="item">
           <p className="testimonial">
-            Gold365 never disappoints! I’ve been using their service for a while now,
+            Laser247 never disappoints! I’ve been using their service for a while now,
             and it’s always fast, secure, and super reliable. Whether you're a
             beginner or experienced, it's the #1 cricket betting ID provider platform
             you can trust. Smooth experience from registration to placing bets—highly
@@ -79,7 +79,7 @@ export default function Testimonials() {
 
         <div className="item">
           <p className="testimonial">
-            Been using Gold365 for a while now, and it's become my go-to. Betting on
+            Been using Laser247 for a while now, and it's become my go-to. Betting on
             cricket and football is super easy, and I’ve never had an issue with
             deposits or withdrawals. Plus, their support team is always quick to
             respond. No complaints—just solid betting all around.
