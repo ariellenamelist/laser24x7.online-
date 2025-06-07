@@ -50,7 +50,7 @@ export default function Footer() {
                       </a>
                     </li>
                     <li className="listing">
-                      <a href="#">
+                      <a href="https://www.gold365.org.in/">
                         <span className="anc">Gold365</span>
                       </a>
                     </li>
